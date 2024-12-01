@@ -30,5 +30,7 @@ Proje dosyasını açın: Visual Studio ile Hesap_Makinesi.sln dosyasını açı
 
 Uygulamayı başlatın.
 Sayılar ve işlemleri seçerek hesaplamalarınızı yapın.
+
 = tuşuna basarak sonucu görün.
+
 C tuşuna basarak ekranı temizleyin.
