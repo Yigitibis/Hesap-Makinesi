@@ -2,20 +2,20 @@
 
 Bu proje, temel matematiksel işlemleri gerçekleştiren basit bir Windows Forms tabanlı hesap makinesi uygulamasıdır. Kullanıcılar toplama, çıkarma, çarpma ve bölme işlemlerini hızlı ve kolay bir şekilde gerçekleştirebilir.
 
-🚀Özellikler
+🚀**Özellikler**
 
-Toplama, çıkarma, çarpma ve bölme işlemleri.
-Dinamik ve kullanıcı dostu arayüz.
-Temizleme ve sıfırlama özellikleri.
-Hata yönetimi (ör. sıfıra bölme hatası).
+*Toplama, çıkarma, çarpma ve bölme işlemleri.*
+*Dinamik ve kullanıcı dostu arayüz.*
+*Temizleme ve sıfırlama özellikleri.*
+*Hata yönetimi (ör. sıfıra bölme hatası).*
 
-🖼 Ekran Görüntüsü
+🖼 **Ekran Görüntüsü**
 
 
 
-🔧Gereksinimler
-Visual Studio (Windows Forms desteği etkinleştirilmiş)
-.NET Framework 4.7.2 veya üstü
+🔧**Gereksinimler**
+*Visual Studio (Windows Forms desteği etkinleştirilmiş)*
+*NET Framework 4.7.2 veya üstü*
 Kurulum
 Proje deposunu klonlayın:
 
@@ -27,7 +27,7 @@ Proje dosyasını açın: Visual Studio ile Hesap_Makinesi.sln dosyasını açı
 Projeyi derleyin ve çalıştırın: Visual Studio'da Ctrl + F5 ile uygulamayı başlatabilirsiniz.
 
 
-📱Kullanım
+📱**Kullanım**
 Uygulamayı başlatın.
 Sayılar ve işlemleri seçerek hesaplamalarınızı yapın.
 = tuşuna basarak sonucu görün.
