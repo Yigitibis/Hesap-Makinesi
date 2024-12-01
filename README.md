@@ -11,7 +11,7 @@ Bu proje, temel matematiksel işlemleri gerçekleştiren basit bir Windows Forms
 
 🖼  **Ekran Görüntüsü**
 
-![Hesap_Makinesi1](Images/Hesap_Makinesi 1.png)
+![Hesap_Makinesi 1](Images/Hesap_Makinesi 1.png)
 
 
 
