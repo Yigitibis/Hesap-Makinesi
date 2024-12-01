@@ -1,4 +1,4 @@
-Hesap Makinesi
+# **Hesap Makinesi**
 
 Bu proje, temel matematiksel işlemleri gerçekleştiren basit bir Windows Forms tabanlı hesap makinesi uygulamasıdır. Kullanıcılar toplama, çıkarma, çarpma ve bölme işlemlerini hızlı ve kolay bir şekilde gerçekleştirebilir.
 
