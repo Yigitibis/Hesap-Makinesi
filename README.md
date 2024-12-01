@@ -22,7 +22,7 @@ Kurulum
 
 
 
-git clone https://github.com/kullaniciadi/hesap-makinesi.git
+git clone 'https://github.com/kullaniciadi/hesap-makinesi.git'
 Proje dosyasını açın: Visual Studio ile Hesap_Makinesi.sln dosyasını açın.
 
 
